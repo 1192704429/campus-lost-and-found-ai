@@ -1,0 +1,64 @@
+// ==================================================
+// 用户端主题（只改下面 8 个核心变量就够了）
+// ==================================================
+// 1) 主品牌色：校徽蓝，用于按钮、高亮、激活态
+$client-color-primary: #1d4f91 !default;
+// 2) 主品牌浅色：清透校园蓝，用于 hover/浅背景
+$client-color-primary-light: #4f83c2 !default;
+// 3) 强调辅助色：校园绿
+$client-color-accent: #2f7d65 !default;
+// 4) 页面主背景色
+$client-color-bg: #f4f7fb !default;
+// 5) 卡片背景色
+$client-color-surface: #ffffff !default;
+// 6) 主文字色（标题）
+$client-color-text-main: #18324f !default;
+// 7) 次文字色（正文/说明）
+$client-color-text-secondary: #64748b !default;
+// 8) 边框线颜色
+$client-color-border: #dce5ef !default;
+
+// ==================================================
+// 以下是兼容旧变量名（组件里已在用），一般不用改
+// ==================================================
+
+// Header
+$client-header-bg-start: #ffffff !default;
+$client-header-bg-end: #f2f7fc !default;
+$client-header-shadow: rgba(24, 50, 79, 0.1) !default;
+$client-header-title: $client-color-text-main !default;
+$client-header-menu: #52677d !default;
+$client-header-menu-active: $client-color-primary !default;
+$client-header-menu-hover: $client-color-primary-light !default;
+$client-header-menu-line-start: $client-color-primary !default;
+$client-header-menu-line-end: $client-color-accent !default;
+
+// Footer
+$client-footer-bg-start: #eef4fa !default;
+$client-footer-bg-end: #e7f0ed !default;
+$client-footer-border: $client-color-border !default;
+$client-footer-shadow: rgba(24, 50, 79, 0.08) !default;
+$client-footer-title: #294861 !default;
+$client-footer-text: $client-color-text-secondary !default;
+$client-footer-link-hover: $client-color-primary !default;
+$client-footer-bottom-text: #8292a5 !default;
+
+// Profile (个人中心)
+$client-profile-card-bg: $client-color-surface !default;
+$client-profile-card-border: $client-color-border !default;
+$client-profile-card-shadow: rgba(24, 50, 79, 0.09) !default;
+$client-profile-title: $client-color-text-main !default;
+$client-profile-subtitle: $client-color-text-secondary !default;
+$client-profile-label: #52677d !default;
+$client-profile-input-border: $client-color-border !default;
+$client-profile-input-focus: $client-color-primary-light !default;
+$client-profile-error: #f56c6c !default;
+$client-profile-tab: #64748b !default;
+$client-profile-tab-active: $client-color-primary !default;
+$client-profile-tab-bar: $client-color-accent !default;
+
+// 兼容现有按钮变量名，实际使用校园蓝绿配色
+$client-pink-btn-start: $client-color-primary !default;
+$client-pink-btn-end: $client-color-accent !default;
+$client-pink-btn-shadow: rgba(29, 79, 145, 0.22) !default;
+$client-pink-btn-hover-shadow: rgba(29, 79, 145, 0.3) !default;
