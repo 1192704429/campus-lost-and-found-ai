@@ -18,7 +18,7 @@
 | 管理员 | 管理员后台 |
 
 
-![功能模块图](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/azhou_promotion/img/module_structure/func_module_9fe3b5ff15084bdfae1c2e4a7d4a93a7.png)
+![功能模块图](docs/images/01-func-module.png)
 
 
 ## 三、技术栈说明
@@ -58,67 +58,67 @@
 
 注册页：填写信息注册账号，加入校园互助平台
 
-![注册页：填写信息注册账号，加入校园互助平台](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/9dbc4e15-483f-4c0c-888d-b47b906a95f8.png)
+![注册页：填写信息注册账号，加入校园互助平台](docs/images/02-zhu-ce.png)
 
 登录页：用户登录账号，可发布失物招领相关信息
 
-![登录页：用户登录账号，可发布失物招领相关信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/443c30ad-479b-4cff-89a9-52686feb14ea.png)
+![登录页：用户登录账号，可发布失物招领相关信息](docs/images/03-deng-lu.png)
 
 首页：展示为你推荐的失物与招领物品信息
 
-![首页：展示为你推荐的失物与招领物品信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/cf67cb47-d99b-4467-8bda-3cb7733c952b.png)
+![首页：展示为你推荐的失物与招领物品信息](docs/images/04-shou-ye.png)
 
 首页：展示失物招领快捷服务和校园公告
 
-![首页：展示失物招领快捷服务和校园公告](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a25585ae-ea67-4e02-817d-f3a47364e573.png)
+![首页：展示失物招领快捷服务和校园公告](docs/images/05-shou-ye.png)
 
 失物大厅：浏览校园内正在寻找的失物信息
 
-![失物大厅：浏览校园内正在寻找的失物信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/4a653d67-b02c-474d-8a58-50b1cb89a40a.png)
+![失物大厅：浏览校园内正在寻找的失物信息](docs/images/06-shi-wu-da-ting.png)
 
 招领大厅：浏览查询待认领的招领物品信息
 
-![招领大厅：浏览查询待认领的招领物品信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ba64f201-2ef5-4238-822a-eb3f74731984.png)
+![招领大厅：浏览查询待认领的招领物品信息](docs/images/07-zhao-ling-da-ting.png)
 
 失物详情页：展示华为MateBook充电器失物的详细信息
 
-![失物详情页：展示华为MateBook充电器失物的详细信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/8c11ccba-38ff-4698-893e-9fbdc4def19c.png)
+![失物详情页：展示华为MateBook充电器失物的详细信息](docs/images/08-shi-wu-xiang-qing.png)
 
 信息发布页：填写内容发布失物或招领信息
 
-![信息发布页：填写内容发布失物或招领信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/654983fa-2600-44bc-8455-8952e1b77295.png)
+![信息发布页：填写内容发布失物或招领信息](docs/images/09-xin-xi-fa-bu.png)
 
 信息发布页：填写失物招领发布信息，提交后进入审核
 
-![信息发布页：填写失物招领发布信息，提交后进入审核](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/0851699e-58b2-43fa-8402-a9fe9ad102ef.png)
+![信息发布页：填写失物招领发布信息，提交后进入审核](docs/images/10-xin-xi-fa-bu.png)
 
 AI智能匹配页：上传物品图片，进行失物招领智能匹配
 
-![AI智能匹配页：上传物品图片，进行失物招领智能匹配](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/6c7dc763-cdee-48bd-8bf1-4f5f86949283.png)
+![AI智能匹配页：上传物品图片，进行失物招领智能匹配](docs/images/11-ai-zhi-neng-pi-pei.png)
 
 公告列表页：展示校园失物招领系统的公告列表
 
-![公告列表页：展示校园失物招领系统的公告列表](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/7065ceb8-8ab3-4c52-8ac3-f5886559d341.png)
+![公告列表页：展示校园失物招领系统的公告列表](docs/images/12-gong-gao-lie-biao.png)
 
 公告详情页：展示新学期失物招领中心启用的公告内容
 
-![公告详情页：展示新学期失物招领中心启用的公告内容](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/1c0bbc07-200b-4510-815d-68db855ec213.png)
+![公告详情页：展示新学期失物招领中心启用的公告内容](docs/images/13-gong-gao-xiang-qing.png)
 
 我的发布页：查看和管理我发布的失物招领信息
 
-![我的发布页：查看和管理我发布的失物招领信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/d1379c3f-845b-4a7b-8f60-5b70e4400dce.png)
+![我的发布页：查看和管理我发布的失物招领信息](docs/images/14-wo-de-fa-bu.png)
 
 我的认领页：展示我的认领申请，跟踪认领进度
 
-![我的认领页：展示我的认领申请，跟踪认领进度](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/a3c73a52-1231-483a-8e59-74c3e165c6b2.png)
+![我的认领页：展示我的认领申请，跟踪认领进度](docs/images/15-wo-de-ren-ling.png)
 
 我的留言页：查看和管理自己发表的留言信息
 
-![我的留言页：查看和管理自己发表的留言信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/00bd75d8-7e50-48fb-8b35-6d3f00a3e772.png)
+![我的留言页：查看和管理自己发表的留言信息](docs/images/16-wo-de-liu-yan.png)
 
 个人中心页：管理个人的账户信息与安全设置
 
-![个人中心页：管理个人的账户信息与安全设置](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/aeca93ff-bfd6-4413-80bd-0a650994f0ec.png)
+![个人中心页：管理个人的账户信息与安全设置](docs/images/17-ge-ren-zhong-xin.png)
 
 
 #### 管理员后台
@@ -142,47 +142,47 @@ AI智能匹配页：上传物品图片，进行失物招领智能匹配
 
 登录页：输入账号信息，登录校园失物招领系统
 
-![登录页：输入账号信息，登录校园失物招领系统](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/acd8448b-0e1f-4d38-8446-309c4bf0d78f.png)
+![登录页：输入账号信息，登录校园失物招领系统](docs/images/18-deng-lu.png)
 
 首页：展示失物招领平台的各项管理统计数据
 
-![首页：展示失物招领平台的各项管理统计数据](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ce4b060f-8b51-44f8-88cb-231d1e900b09.png)
+![首页：展示失物招领平台的各项管理统计数据](docs/images/19-shou-ye.png)
 
 用户管理页：查看并管理学生账号的信息与账号状态
 
-![用户管理页：查看并管理学生账号的信息与账号状态](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/ff2a5068-e3f6-4ee2-88af-6983101cc93e.png)
+![用户管理页：查看并管理学生账号的信息与账号状态](docs/images/20-yong-hu-guan-li.png)
 
 失物信息管理页：查看并管理用户发布的失物信息
 
-![失物信息管理页：查看并管理用户发布的失物信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/047c237f-57ed-4800-8039-18831a657abb.png)
+![失物信息管理页：查看并管理用户发布的失物信息](docs/images/21-shi-wu-xin-xi-guan-li.png)
 
 招领信息管理：查看并管理用户发布的所有招领信息
 
-![招领信息管理：查看并管理用户发布的所有招领信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/3df4b19c-d7cf-47a3-801f-d30e193e2cd0.png)
+![招领信息管理：查看并管理用户发布的所有招领信息](docs/images/22-zhao-ling-xin-xi-guan-li.png)
 
 审核管理页：集中审核用户发布的失物与招领信息
 
-![审核管理页：集中审核用户发布的失物与招领信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/964de335-14f2-424e-84ce-60374b7f4bf5.png)
+![审核管理页：集中审核用户发布的失物与招领信息](docs/images/23-shen-he-guan-li.png)
 
 举报管理页：管理员查看处理失物招领相关的用户举报
 
-![举报管理页：管理员查看处理失物招领相关的用户举报](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/cb84bbbc-9a3b-4921-87e1-1c6e5d160ee6.png)
+![举报管理页：管理员查看处理失物招领相关的用户举报](docs/images/24-ju-bao-guan-li.png)
 
 留言管理页：管理员查看并管理系统内的用户留言
 
-![留言管理页：管理员查看并管理系统内的用户留言](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/9223a9b8-40e0-407c-818a-68af021566bb.png)
+![留言管理页：管理员查看并管理系统内的用户留言](docs/images/25-liu-yan-guan-li.png)
 
 物品分类管理：管理维护失物招领的物品分类信息
 
-![物品分类管理：管理维护失物招领的物品分类信息](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/3078aa69-9721-492a-88d0-1eb60083efbc.png)
+![物品分类管理：管理维护失物招领的物品分类信息](docs/images/26-wu-pin-fen-lei-guan-li.png)
 
 轮播图管理：管理轮播图信息，支持新增编辑删除操作
 
-![轮播图管理：管理轮播图信息，支持新增编辑删除操作](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/0486ea02-0b3f-4f14-80f8-24f52aacb84b.png)
+![轮播图管理：管理轮播图信息，支持新增编辑删除操作](docs/images/27-lun-bo-tu-guan-li.png)
 
 公告管理页：查看并管理校园失物招领系统的公告
 
-![公告管理页：查看并管理校园失物招领系统的公告](https://code-graden-server-dev.oss-cn-beijing.aliyuncs.com/2026-08-26/f2deb32c-e722-46c0-8374-49fe37912782.png)
+![公告管理页：查看并管理校园失物招领系统的公告](docs/images/28-gong-gao-guan-li.png)
 
 
 ## 五、主要业务流程
